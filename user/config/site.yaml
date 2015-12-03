@@ -1,0 +1,21 @@
+title: PMc Fabrication & Metalworks  # Name of the site
+author:
+  name: PMc Fabrication & Metalworks
+metadata:
+    description: 'PMc Fabrication & Metalworks'
+
+# Header customization
+header:
+  title: PMc <span>FABRICATION</span><span> & </span><span>METALWORKS</span>
+  description: custom <em>inspired</em> creations
+  buttons:
+    - text: "check out the studio"
+      link: "#"
+      class: "learn-more-btn"
+
+footer:
+  links:
+    - text: Terms &amp; Conditions
+      url: "#"
+    - text: Legals
+      url: "#"
