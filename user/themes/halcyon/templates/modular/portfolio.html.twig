@@ -3,7 +3,7 @@
     <div class="row">
       {{ page.content }}
       <h1> {{ page.title }} </h1>
-      <div id="portfolioSlider">
+      <div class="portfolioSlider">
         <ul class="slides">
           {% for row in page.header.portfolio|batch(3) %}
           <li>
