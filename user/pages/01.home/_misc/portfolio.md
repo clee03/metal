@@ -1,21 +1,21 @@
 ---
 title: Miscellaneous Projects
 portfolio:
-  - title: "Creative Minds"
-    img: portfolio-01.jpg
-    img_text: View More
+  - title: "Cookstove"
+    img: cookstove.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Hearts"
-    img: portfolio-02.jpg
-    img_text: View More
+    content: ""
+  - title: "Fire"
+    img: fire.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
+    content: ""
     delay: 0.5
-  - title: "Creative Ideas"
-    img: portfolio-03.jpg
-    img_text: View More
+  - title: "Sun Project"
+    img: sun.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
+    content: ""
     delay: 1
 ---

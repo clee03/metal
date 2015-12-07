@@ -1,37 +1,38 @@
 ---
 title: Plate Pieces
 portfolio:
-  - title: "Creative Minds"
-    img: portfolio-01.jpg
-    img_text: View More
+  - title: "Plate Project 1"
+    img: plate-shop.jpg
+    img_text:
+    img_url: "/pmc2/1"
+    content: ""
+  - title: "Plate Project 2"
+    img: plate-3.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Hearts"
-    img: portfolio-02.jpg
-    img_text: View More
-    img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
+    content: ""
     delay: 0.5
-  - title: "Creative Ideas"
-    img: portfolio-03.jpg
-    img_text: View More
+  - title: "Plate Project 3"
+    img: plate-4.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
+    content: ""
     delay: 1
-  - title: "Creative Minds"
-    img: portfolio-01.jpg
-    img_text: View More
+  - title: "Plate Project 4"
+    img: plate-5.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Hearts"
-    img: portfolio-02.jpg
-    img_text: View More
+    content: ""
+  - title: "Plate Project 5"
+    img: plate-1.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."
-  - title: "Creative Ideas"
-    img: portfolio-03.jpg
-    img_text: View More
+    content: ""
+  - title: "Plate Project 6"
+    img: plate-6.jpg
+    img_text:
     img_url: "#"
-    content: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc ultricies nulla non metus pulvinar imperdiet. Praesent non adipiscing libero."       
+    content: ""
+
 
 ---

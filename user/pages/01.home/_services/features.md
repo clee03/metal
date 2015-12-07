@@ -20,4 +20,4 @@ features:
     delay: "1"     
 ---
 
-# Love what you do, and you'll do it well {.arrow}
+# Custom inspired creations {.arrow}
